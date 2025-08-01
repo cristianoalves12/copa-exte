@@ -107,6 +107,16 @@ main {
     font-weight: 400;
     
 }
+.app-copa {
+    border-radius: 20px;
+    border: 2px solid #0A3F9F;
+    background: linear-gradient(92deg, #0A3F9F 43.83%, rgba(10, 63, 159, 0.70) 98.44%);
+    box-shadow: 0 100px 80px 0 rgba(27, 112, 154, 0.34), 0 41.778px 33.422px 0 rgba(27, 112, 154, 0.24), 0 22.336px 17.869px 0 rgba(27, 112, 154, 0.20), 0 12.522px 10.017px 0 rgba(27, 112, 154, 0.17), 0 6.65px 5.32px 0 rgba(27, 112, 154, 0.14), 0 2.767px 2.214px 0 rgba(27, 112, 154, 0.10);
+}
+
+.app-copa .text-buttom {
+    color: var(--amarelo);
+}
 
 .fan-registration {
     border: 2px solid #358AB4;
